@@ -18,7 +18,7 @@ This project is a simple Morse code translator written in Python. It allows you 
     ```
 3. **Run the script:** Open command prompt and run the script using:
     ```bash
-   python src/cli.py
+   python -m src.cli
     ```
 4. **Encode your text to Morse code:** The script will prompt you to enter the text or Morse code you want to translate.
     ```bash

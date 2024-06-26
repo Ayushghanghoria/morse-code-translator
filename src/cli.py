@@ -1,5 +1,5 @@
 import cmd
-from translator import encrypt, decrypt
+from src.translator import encrypt, decrypt
 
 class MorseCodeCLI(cmd.Cmd):
     prompt = '>> '

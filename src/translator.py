@@ -1,4 +1,4 @@
-from constants import MORSE_CODE_DICT, MORSE_TO_CHAR_DICT
+from src.constants import MORSE_CODE_DICT, MORSE_TO_CHAR_DICT
 
 def encrypt(message):
     """
